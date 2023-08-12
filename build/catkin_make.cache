@@ -1,0 +1,2 @@
+aruco
+-DCATKIN_DEVEL_PREFIX=/home/anunay/husky_ws/devel -DCMAKE_INSTALL_PREFIX=/home/anunay/husky_ws/install -G Unix Makefiles
